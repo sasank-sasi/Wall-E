@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, don't hesitate to reach out at [contact@yourwebsite.com](sasisasank111@gmail.com). I'd love to hear from you!
+If you have any questions, feedback, or suggestions, don't hesitate to reach out at [MAIL](sasisasank111@gmail.com), [MAIL](https://sasanksasi.streamlit.app/). I'd love to hear from you!
 
 ## Future updates
 
