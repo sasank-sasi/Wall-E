@@ -55,4 +55,4 @@ If you have any questions, feedback, or suggestions, don't hesitate to reach out
 
 Wall-E is going live soon! We're making it easy for everyone to access its powerful image generation capabilities through a user-friendly website.
 
-##Happy generating with Wall-E!
+## Happy generating with Wall-E!
