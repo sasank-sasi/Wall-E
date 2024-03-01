@@ -3,6 +3,8 @@ Looking for an alternative to DALL-E? Wall-E is here! This free, cloud-based ima
 
 Wall-E is an AI-powered image generator that brings your text prompts to life. It's a free and cloud-based alternative to DALL-E, allowing you to create stunning images without the need for a subscription.
 
+!note the images produced by 
+
 ![Wall-E Logo](https://github.com/sasank-sasi/Wall-E/blob/main/wall-e.png)
 
 ## Features
@@ -18,7 +20,7 @@ Wall-E is an AI-powered image generator that brings your text prompts to life. I
 To get started with Wall-E, follow these simple steps:
 
 1. Go to kaggle [kaggle website](https://www.kaggle.com/) and sign up for a free account.
-2. Once signed in, then go to stable diffution model [Stable Diffusion XL]([https://www.kaggle.com/](https://www.kaggle.com/models/stabilityai/stable-diffusion-xl)).
+2. we used Stable Diffusion which is a generative ai model, go check out more about stable diffution here [Stable Diffusion XL]([https://www.kaggle.com/](https://www.kaggle.com/models/stabilityai/stable-diffusion-xl)).
 3. Then you can run the Wall-E.ipynb file from my repo or you can use google colab or you can run the notebook file that i have created in kaggle i prefer using the kaggle notebook with the cloud based GPU's
 4. link to that notebook file [link](https://www.kaggle.com/code/sasisasank/notebook9ffa200dbb)
 5. Then select the gpu and start the session
