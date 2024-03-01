@@ -51,4 +51,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feedback, or suggestions, don't hesitate to reach out at [contact@yourwebsite.com](sasisasank111@gmail.com). I'd love to hear from you!
 
-Happy generating with Wall-E!
+## Future updates
+
+Wall-E is going live soon! We're making it easy for everyone to access its powerful image generation capabilities through a user-friendly website.
+
+##Happy generating with Wall-E!
